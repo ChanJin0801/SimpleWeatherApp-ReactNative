@@ -1,6 +1,6 @@
-# simpleWeatherApp-ReactNative
+# SimpleWeatherApp-ReactNative
 
-This react native app is simple weather app. It shows the weather image for current location.
+This react native app is simple weather app. It shows the expo weather image for current location.
 
 
 
